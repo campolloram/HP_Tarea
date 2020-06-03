@@ -1,0 +1,3 @@
+/home/pollo/Documents/HP_Tarea/Buscador_Raices/built/CMakeFiles/rebuild_cache.dir
+/home/pollo/Documents/HP_Tarea/Buscador_Raices/built/CMakeFiles/edit_cache.dir
+/home/pollo/Documents/HP_Tarea/Buscador_Raices/built/CMakeFiles/findroots.dir

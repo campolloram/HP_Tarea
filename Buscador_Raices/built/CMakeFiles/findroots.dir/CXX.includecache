@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pollo/Documents/HP_Tarea/Buscador_Raices/main.cpp
+cmath
+-
+iostream
+-
+sstream
+-
+iterator
+-
+string
+-
+vector
+-
+
