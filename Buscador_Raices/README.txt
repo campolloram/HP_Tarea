@@ -23,7 +23,7 @@ La manera en la cual calcula las raices es:
 	
 EJECUCION:
 
-El programa recive 4 flotantes los cuales representan los coeficientes de un polinomio de la forma ax^3 + bx^2 + cx + d Dichos numeros se dan de forma descendente (primero a luego b ...) y regresa como resultado un print de la forma "{}" en caso de no encontrar raices (aparte de 0 obviamente) y {r1,r2,r3} en caso de si encontrar raices.
+El programa recive 4 flotantes los cuales representan los coeficientes de un polinomio de la forma ax^3 + bx^2 + cx + d Dichos numeros se dan de forma descendente (primero a luego b ...) y regresa como resultado un print de la forma "{}" en caso de no encontrar raices y {r1,r2,r3} en caso de si encontrar raices.
 
 
 INFORMACION ADICIONAL:
